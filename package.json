@@ -54,7 +54,7 @@
     "serve-favicon": "^2.2.0",
     "stable": "^0.1.5",
     "strong-remoting": "^3.0.0-alpha.1",
-    "uid2": "0.0.3",
+    "uid2": "0.0.4",
     "underscore.string": "^3.0.3"
   },
   "devDependencies": {
